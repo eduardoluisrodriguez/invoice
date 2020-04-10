@@ -52,8 +52,3 @@ cd server/ && npm run dev
 │   └── package-lock.json
 └── readme.md
 ```
-
-## Acknowledgements
-
-This project stems from my desire to improve my knowledge through building applications.  
-Knowing that this application could also help someone, that motivated me even more.
